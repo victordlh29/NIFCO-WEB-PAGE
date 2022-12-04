@@ -10,7 +10,7 @@ const Footer = () => {
                 <ul class="nav justify-content-center ">
                 <li class="nav-item"><a href="https://github.com/victordlh29/FianlRubrica.git" class="nav-link px-2 text-light">Github</a></li>
                 </ul>
-                <p class="text-center text-light">&copy; 2022 NIFICO, Inc</p>
+                <p class="text-center text-light">&copy; 2022 NIFCO, Inc</p>
             </footer>
         </div>  
     )
