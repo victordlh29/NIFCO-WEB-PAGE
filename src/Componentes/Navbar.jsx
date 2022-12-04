@@ -15,7 +15,7 @@ const Navbar = (props) => {
     return (     
         <div className='navbar navbar-dark bg-dark'>
             <div className='container-fluid'> 
-            <Link className='navbar-brand' to="/inicio">NIFICO</Link>       
+            <Link className='navbar-brand' to="/inicio">NIFCO</Link>       
                 <div className='d-flex'>
                     <Link to="/inicio" className='btn btn-outline-light mx-1'>Inicio</Link>
                     {
