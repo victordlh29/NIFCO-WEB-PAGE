@@ -201,7 +201,7 @@ function Registro(props) {
     }
 
     return (
-        <div className='container-fluid mt-4'>
+        <div id="size" className='container-fluid mt-4'>
             <div className="row">
                 <div className="col-12">
 
